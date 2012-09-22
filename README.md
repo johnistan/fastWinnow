@@ -4,6 +4,6 @@ This is a simple impelementation of the Winnow Algorithm in R and C++. I looked 
 
 
 ###Requires Packages
-* Rcpp
-* RcppArmadillo
-* inline
+* [Rcpp](http://dirk.eddelbuettel.com/code/rcpp.html)
+* [RcppArmadillo](http://dirk.eddelbuettel.com/code/rcpp.armadillo.html)
+* [inline](http://cran.r-project.org/web/packages/inline/index.html)
