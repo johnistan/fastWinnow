@@ -1,6 +1,6 @@
 ##fastWinnow
 
-This is a simple impelementation of the [Winnow Algorithm](http://en.wikipedia.org/wiki/Winnow_\(algorithm\)) in R and C++. I looked for and implementation on CRAN and couldn't find one. My use case for a binary classification so it will only accept a classification vector of 0/1. 
+This is a simple impelementation of the [Winnow Algorithm](http://en.wikipedia.org/wiki/Winnow_\(algorithm\)) in R and C++. I looked for and implementation on CRAN and couldn't find one. My use case was for binary classification so it will only accept a classification vector of 0/1. 
 
 Winnow is a classic algorithm, great for learning simple disjunctions and can help in weeding out irrelavant features in large feature space. 
 
